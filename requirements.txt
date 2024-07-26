@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+build==1.2.1
+certifi==2024.7.4
+charset-normalizer==3.3.2
+commons-benatt @ git+ssh://git@github.com/ben-mathu/idea-bag-solutions/@ba19c1c9f8c41a023d48da3dbfb27aecb564e521#subdirectory=common
+greenlet==3.0.3
+idna==3.7
+lxml==5.2.2
+packaging==24.1
+pyproject_hooks==1.1.0
+requests==2.32.3
+soupsieve==2.5
+SQLAlchemy==2.0.31
+typing_extensions==4.12.2
+urllib3==2.2.2
