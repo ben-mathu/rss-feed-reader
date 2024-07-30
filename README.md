@@ -12,7 +12,7 @@ This project is created in an attempt to create a database of feeds a user would
   
   Reader creates a simple command line application that gets inputs from the user. Accepts RSS URL, loads the downloaded xml and deserializes the response into objects which are persisted into a database.
 
-- [x] Cron Job
+- [ ] Cron Job
   
   Creates a cron job for each topic and RSS feeds to check for new post or feed. Publish messages to Apache Kafka to notify consumers of updates or new Feeds.
 
