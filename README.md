@@ -20,7 +20,7 @@ This project was built in an attempt to create a backend service and application
 
 - [x] Reader
   
-  Reader creates a simple command line application that gets inputs from the user. Accepts RSS URL, loads the downloaded xml and deserializes the response into objects which are persisted into a database.
+  A simple command line application that gets inputs from the user. Accepts RSS URL, loads the downloaded xml and deserializes the response into objects which are persisted into a database.
 
 - [ ] Scheduling Tool
   
@@ -28,4 +28,4 @@ This project was built in an attempt to create a backend service and application
 
 - [ ] RSS Reader Application
   
-  This application consumes the messages, receives feeds from the cron jobs by registering kafka topics. This application receives these feeds in real time.
+  A mobile application that receives notification from backend services message streams, new and old feeds are fetched from the RSS reader backend servicee. This application receives these feeds in real time.
